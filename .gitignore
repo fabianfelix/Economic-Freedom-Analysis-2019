@@ -1,0 +1,22 @@
+# .gitignore
+
+# Virtual environment
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+__pycache__/
+
+# Temporary files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Ignore data files that can be downloaded or generated locally
+# data/
